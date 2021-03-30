@@ -1,1 +1,3 @@
 # TO-do-APP
+
+I'm building a To do list app which will have a placeholder and submit button inside the placeholder i must have any text of my choice. I have to make it function in such a way that if we type anything inside the placeholder and click submit button, what we have typed inside the placeholder have to appear under the placeholder, we should be able to type anything again and when we click submit button it have to appert after the text when havve submitted before.  
